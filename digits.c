@@ -17,7 +17,9 @@ int main()
       num=num/10;
       count++;
     }
-    printf("The number of digits are/is\n",num);
-    system("pause>0");
+    printf("The number of digits are/is\n%d",count);
   }
-  
+    system("pause>0");
+}
+
+
