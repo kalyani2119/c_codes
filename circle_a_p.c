@@ -1,3 +1,4 @@
+//to find the area and perimeter of a circle 
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
