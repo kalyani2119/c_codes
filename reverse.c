@@ -1,3 +1,4 @@
+//to reverse a given number
 #include<stdio.h>
 
 int main()
