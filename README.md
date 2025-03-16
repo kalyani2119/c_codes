@@ -6,4 +6,5 @@
 >5.A c program to calculate the sum of the numbers within given ranges\
 >6.A c program to find hcf of two numbers\
 >7.A c program to find square root of a number\
->8.A c program to print quotient and remainder
+>8.A c program to print quotient and remainder \
+>9.A c program to sync files using rsync command
